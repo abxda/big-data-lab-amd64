@@ -11,6 +11,5 @@
    config.vm.provider "virtualbox" do |vb|
      vb.memory = "4096"
      vb.cpus = 4
-     vb.name = "abxda-BigDataLab"
    end
  end
